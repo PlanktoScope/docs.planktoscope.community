@@ -2,162 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.planktoscope.community/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/faq/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/code-of-conduct/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/license/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/trainings/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/contribute/documentation/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/contribute/github/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/contribute/hardware/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/community/contribute/software/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/operation/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/operation/maintenance/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/operation/sample-collection/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/operation/user-interface/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/reference/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/reference/hardware/changelog/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/reference/hardware/hat/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/reference/software/changelog/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/reference/software/mqtt-api/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/index-noguides/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/v2.1/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/v2.5/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/v2.5/assembly/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/hardware/v2.5/kit/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/software/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/software/config/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/software/create-sd/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/software/nonstandard-install/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/setup/software/standard-install/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.planktoscope.community/troubleshooting/</loc>
-         <lastmod>2023-12-08</lastmod>
+         <lastmod>2023-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
